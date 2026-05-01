@@ -22,8 +22,3 @@ Assets/
     ├── UI/           UIManager, ScoreManager
     └── Background/   BackgroundScroller, StarTwinkle
 ```
-
-  через одну галочку в Inspector.
-
-У production-проєкті, звісно, краще мати справжні префаби з художніми ассетами
-і ScriptableObject-конфігами, але для лабораторної цей підхід доречніший.
